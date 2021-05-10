@@ -116,7 +116,7 @@ img {
 
 .card__btn {
   background: var(--clr-linear-gradient);
-  border: none;
+  border: 1px solid transparent;
   border-radius: 0.5em;
   color: var(--clr-white);
   cursor: pointer;
