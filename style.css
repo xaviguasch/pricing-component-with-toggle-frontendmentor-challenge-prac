@@ -184,6 +184,12 @@ body {
   display: none;
 }
 
+.toggle__ball.toggle__ball--left {
+  /* Positioning */
+  left: unset;
+  right: 4px;
+}
+
 /* ================== */
 /* SECTIONS */
 /* ================== */
@@ -230,12 +236,6 @@ body {
   border-radius: 50%;
   height: 23px;
   width: 23px;
-}
-
-.toggle__ball.toggle__ball--left {
-  /* Positioning */
-  left: unset;
-  right: 4px;
 }
 
 .cards-area {
